@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "AoRMj3CUXaPxqkjmkVYQxoRDmN3zV03HVbFVzETUlh8=",
+  "Source": "Chat",
+  "BasePath": "_content/Chat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chat\\wwwroot",
+      "Source": "Chat",
+      "ContentRoot": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\js\\Chat.js",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "js/Chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Chat.js"
+    },
+    {
+      "Identity": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\lib\\signalR\\signalr.js\\signalr.js",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "lib/signalR/signalr.js/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalR\\signalr.js\\signalr.js"
+    },
+    {
+      "Identity": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\lib\\signalR\\signalr.js\\signalr.min.js",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "lib/signalR/signalr.js/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\signalR\\signalr.js\\signalr.min.js"
+    },
+    {
+      "Identity": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\pages\\index.html",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\c#\\Chat Solution\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "pages/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\index.html"
+    }
+  ]
+}

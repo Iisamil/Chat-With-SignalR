@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        .container {
+            padding : 4rem;
+            margin : 4rem;
+        }
+
+        #publicTalk {
+            background-color : #808080;
+            border : thick solid #000000;
+        } 
+        
+    </style>
+    <script src="../lib/signalR/signalr.js/signalr.js"></script>
+    <script src="../js/Chat.js"></script>
+</head>
+<body>
+    <div id="publicTalk" class="container">
+        <input type="text" id="massageInp"/>
+        <input type="submit" id="sendMassageBtn" value="Send"/>
+        <ul id="conversation">
+            </ul>
+    </div>
+
+</body>
+</html>
